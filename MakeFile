@@ -1,0 +1,5 @@
+# como o arquivo compila nosso progama 
+CXXFLAGS= -std=c++11
+
+# podemos colocar make forca para compilar 
+# e depois executar o progama com 'forca' 
